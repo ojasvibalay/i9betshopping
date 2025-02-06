@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
+HB88 – Sân Chơi Giải Trí Đỉnh Cao, Uy Tín & Cơ Hội Đổi Đời
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`I9BET <https://i9bet.shopping/>`_ ra mắt từ năm 2015, nhanh chóng khẳng định vị thế của mình trong lĩnh vực game đổi thưởng trực tuyến với kho trò chơi phong phú, thiết kế ấn tượng và tỷ lệ trả thưởng minh bạch. Được cấp phép bởi các tổ chức uy tín quốc tế như PAGCOR và MGA, HB88 cam kết mang lại môi trường giải trí an toàn, hợp pháp và đáng tin cậy. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+HB88 tự hào cung cấp nhiều sảnh game hấp dẫn như live casino, thể thao, slot game, và bắn cá với công nghệ hiện đại, đồ họa sống động, cùng cơ hội trúng thưởng lớn. Bên cạnh đó, HB88 còn thu hút người chơi bởi chính sách khuyến mãi độc quyền như tặng quà đăng ký, hoàn tiền và các ưu đãi lớn tại sảnh casino. 
 
-.. note::
+Đội ngũ hỗ trợ khách hàng nhiệt tình hoạt động 24/7, cùng hệ thống giao dịch nhanh chóng, bảo mật, giúp người chơi tận hưởng trọn vẹn từng khoảnh khắc. Với HB88, bạn không chỉ tham gia vào một sân chơi mà còn bước vào một thế giới giải trí đỉnh cao và cơ hội đổi đời thực sự.
 
-   This project is under active development.
+Thông tin liên hệ: 
 
-Contents
---------
+Địa chỉ: Số 61 Lê Văn Lương, Trung Hòa, Cầu Giấy, Hà Nội. 
 
-.. toctree::
+Phone: 0988348356. 
 
-   usage
-   api
+Email: info@hb886.ink. 
+
+Website: https://i9bet.shopping/
+
+#hb88 #trangchuhb88 #dangkyhb88 #dangnhaphb88 #linkhb88
